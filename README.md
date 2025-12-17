@@ -2,6 +2,8 @@
 
 <h2>Disentangled Generation and Aggregation for Robust Radiance Fields</h2>
 
+<b>ECCV 2024</b>
+
 Shihe Shen*, Huachen Gao*, Wangze Xu, Rui Peng, Luyang Tang, Kaiqiang Xiong, Jianbo Jiao, Ronggang Wang†
 
 Peking University, Peng Cheng Laboratory, University of Birmingham <br>
