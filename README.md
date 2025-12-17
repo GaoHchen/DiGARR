@@ -71,7 +71,7 @@ The project provides a convenient training script `scripts/train/static_train_hy
 
 ### 🔄 In Progress
 - [x] Code init
-- [ ] Code organization and refactoring
+- [ ] Code debug, organization and refactoring
 - [ ] NeRF Blender dataset/training
 - [ ] Dependency file organization (requirements.txt)
 - [ ] Pre-trained model preparation
