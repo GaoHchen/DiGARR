@@ -8,7 +8,7 @@ import torch
 import torch.optim.lr_scheduler
 from torch import nn
 
-from plenoxels.models.lowrank_model import LowrankModel
+from plenoxels.models_all.lowrank_model import LowrankModel
 from plenoxels.ops.losses.histogram_loss import interlevel_loss
 from plenoxels.raymarching.ray_samplers import RaySamples
 
